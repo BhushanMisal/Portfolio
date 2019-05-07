@@ -1,0 +1,30 @@
+.site-header{
+    background-color:#1bbc9b;
+    color:#ecfdf5;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+
+}
+.site-header-content{
+    margin: 10px;
+
+}
+.portpolio_img{
+    border-radius: 50%;
+    align-self:center ;
+    box-shadow: #0a755f 2px 5px 3px;
+    height: 200px;
+    width: 200px;
+
+}
+body{
+    margin: 0px;
+}
+div{
+
+}
